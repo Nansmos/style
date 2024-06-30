@@ -1,0 +1,142 @@
+body{
+    text-align: center;
+}
+@font-face {
+    font-family: nan;
+    src: url(/Trick\ or\ Treats.otf);
+}
+#change{
+    font-family: nan;
+    color: green;
+}
+#change:hover{
+    color: rgb(243, 25, 206);
+    cursor: pointer;
+}
+#color{
+    color: blueviolet;
+}
+#color:hover{
+    color: red;
+    cursor: pointer;
+}
+#the{
+    color: rgb(239, 117, 11);
+}
+#the:hover{
+    color: rgb(229, 244, 29);
+    cursor: pointer;
+}
+#l1{
+    color: red;
+    text-decoration: underline;
+}
+#color{
+    color: rgb(28, 241, 28);
+}
+input{
+    border: 1px solid black;
+    border-radius: 5px;
+    font-family: nan;
+    size: 5px;
+    
+}
+/* input:hover{
+    border: 1px solid rgb(57, 237, 12);
+    border-radius: 5px;
+    cursor: pointer;
+    color: rgb(223, 11, 191);
+    background-color: rgb(255, 255, 255);
+    font-family: nan;
+    transition: 0.1s ease all;
+} */
+#Yellow:hover{
+    border: 1px solid rgb(234, 185, 25);
+    border-radius: 5px;
+    cursor: pointer;
+    color: rgb(255, 234, 0);
+    background-color: rgb(255, 255, 255);
+    font-family: nan;
+    transition: 0.1s ease all;
+}
+#Green:hover{
+    border: 1px solid rgb(56, 243, 19);
+    border-radius: 5px;
+    cursor: pointer;
+    color: rgb(56, 243, 19);
+    background-color: rgb(255, 255, 255);
+    font-family: nan;
+    transition: 0.1s ease all;
+}
+#Red:hover{
+    border: 1px solid rgb(242, 8, 8);
+    border-radius: 5px;
+    cursor: pointer;
+    color: rgb(241, 9, 9);
+    background-color: rgb(255, 255, 255);
+    font-family: nan;
+    transition: 0.1s ease all;
+}
+#Purple:hover{
+    border: 1px solid rgb(124, 7, 150);
+    border-radius: 5px;
+    cursor: pointer;
+    color: purple;
+    background-color: rgb(255, 255, 255);
+    font-family: nan;
+    transition: 0.1s ease all;
+}
+#Pink:hover{
+    border: 1px solid palevioletred;
+    border-radius: 5px;
+    cursor: pointer;
+    color: palevioletred;
+    background-color: rgb(255, 255, 255);
+    font-family: nan;
+    transition: 0.1s ease all;
+}
+#Blue:hover{
+    border: 1px solid rgb(68, 71, 243);
+    border-radius: 5px;
+    cursor: pointer;
+    color: rgb(76, 19, 233);
+    background-color: rgb(255, 255, 255);
+    font-family: nan;
+    transition: 0.1s ease all;
+}
+#facebook:hover{
+    border: 1px solid rgb(68, 71, 243);
+    border-radius: 5px;
+    cursor: pointer;
+    color: rgb(76, 19, 233);
+    background-color: rgb(255, 255, 255);
+    font-family: nan;
+    transition: 0.1s ease all;
+}
+#tiktok:hover{
+        border: 1px solid rgb(242, 8, 8);
+        border-radius: 5px;
+        cursor: pointer;
+        color: rgb(241, 9, 9);
+        background-color: rgb(255, 255, 255);
+        font-family: nan;
+        transition: 0.1s ease all;
+}
+#telegram:hover{
+    border: 1px solid rgb(234, 185, 25);
+    border-radius: 5px;
+    cursor: pointer;
+    color: rgb(255, 234, 0);
+    background-color: rgb(255, 255, 255);
+    font-family: nan;
+    transition: 0.1s ease all;
+}
+#messenger:hover{
+    border: 1px solid rgb(239, 114, 4);
+    border-radius: 5px;
+    cursor: pointer;
+    color: rgb(239, 114, 4);
+    background-color: rgb(255, 255, 255);
+    font-family: nan;
+    transition: 0.1s ease all;
+}
